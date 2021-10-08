@@ -15,4 +15,7 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Pacman rules](./pacman-rules)
 ### Bit manipulation
 - [Secrets](./secrets)
-
+### Floating Point Numbers
+- [Freelancer Rates](./freelancer-rates)
+### Integers
+- [Freelancer Rates](./freelancer-rates)
