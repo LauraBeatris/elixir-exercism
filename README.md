@@ -19,3 +19,5 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Freelancer Rates](./freelancer-rates)
 ### Integers
 - [Freelancer Rates](./freelancer-rates)
+### Lists
+- [Language List](./language-list)
