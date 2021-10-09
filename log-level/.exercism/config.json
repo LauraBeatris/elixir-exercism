@@ -1,0 +1,22 @@
+{
+  "blurb": "Learn about atoms and the cond conditional expression by aggregating application logs.",
+  "icon": "log-levels",
+  "authors": [
+    "neenjaw"
+  ],
+  "files": {
+    "solution": [
+      "lib/log_level.ex"
+    ],
+    "test": [
+      "test/log_level_test.exs"
+    ],
+    "exemplar": [
+      ".meta/exemplar.ex"
+    ]
+  },
+  "forked_from": [
+    "csharp/logs-logs-logs"
+  ],
+  "language_versions": ">=1.10"
+}
