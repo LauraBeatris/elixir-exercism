@@ -23,3 +23,9 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Language List](./language-list)
 ### Atoms
 - [Log Level](./log-level)
+### Default Arguments
+- [Guessing Game](./guessing-game)
+### Guards
+- [Guessing Game](./guessing-game)
+### Multiple Clause Functions
+- [Guessing Game](./guessing-game)

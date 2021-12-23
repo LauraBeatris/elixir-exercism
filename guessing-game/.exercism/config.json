@@ -1,0 +1,24 @@
+{
+  "blurb": "Learn about multiple clause functions, guards, and default arguments by implementing a simple game in which the player needs to guess a secret number.",
+  "authors": [
+    "neenjaw"
+  ],
+  "contributors": [
+    "angelikatyborska"
+  ],
+  "files": {
+    "solution": [
+      "lib/guessing_game.ex"
+    ],
+    "test": [
+      "test/guessing_game_test.exs"
+    ],
+    "exemplar": [
+      ".meta/exemplar.ex"
+    ]
+  },
+  "forked_from": [
+    "fsharp/guessing-game"
+  ],
+  "language_versions": ">=1.10"
+}
