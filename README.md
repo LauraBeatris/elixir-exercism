@@ -21,6 +21,8 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Freelancer Rates](./freelancer-rates)
 ### Lists
 - [Language List](./language-list)
+### Tuples
+- [Kitchen Calculator](./kitchen-calculator)
 ### Atoms
 - [Log Level](./log-level)
 ### Default Arguments
@@ -29,3 +31,5 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Guessing Game](./guessing-game)
 ### Multiple Clause Functions
 - [Guessing Game](./guessing-game)
+### Pattern Matching
+- [Kitchen Calculator](./kitchen-calculator)
