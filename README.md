@@ -14,6 +14,7 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 - [Secrets](./secrets)
 ### Boolean
 - [Pacman rules](./pacman-rules)
+- [Leap]('./leap')
 ### Bit manipulation
 - [Secrets](./secrets)
 ### Floating Point Numbers
