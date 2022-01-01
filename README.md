@@ -9,6 +9,7 @@ Repo to maintain exercises solutions from the [Elixir track by Exercism.io](http
 ## Exercises by topic
 ### Basics
 - [Lasagna](./lasagna)
+- [Rational Numbers](./rational-numbers)
 ### Anonymous functions
 - [Secrets](./secrets)
 ### Boolean
